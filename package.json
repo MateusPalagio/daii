@@ -1,0 +1,22 @@
+{
+  "name": "daii",
+  "version": "1.0.0",
+  "description": "whatsapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateusPalagio/daii.git"
+  },
+  "author": "Mateus Palagio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MateusPalagio/daii/issues"
+  },
+  "homepage": "https://github.com/MateusPalagio/daii#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  }
+}
